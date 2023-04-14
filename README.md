@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm still figuring out how to do this stuff but! This could be a work in progress in the future? I didn't put much (or really any) work into this website (yet!) but I did at least figure out how to create it which I had a much harder time doing than I'm willing to admit... 
+I hope this counts with the extra credit but you know what, even if it doesn't thats okay because I'm pretty glad that I was even able to figure out how to make this work.
 
 <!--
 **kelseygivler/kelseygivler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
